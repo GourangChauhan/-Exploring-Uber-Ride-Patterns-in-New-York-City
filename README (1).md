@@ -128,15 +128,14 @@ The Uber New York Data Analysis project provided valuable insights into ride pat
 
 ## Authors
 
-- [@CoderAdi003](https://github.com/CoderAdi003)
+- Gourang Chauhan
 
 
 ## Feedback
 
-Feel free folks to drop any feedbacks you have at adityakumar100aditya@gmail.com
+Feel free  to drop any feedbacks you have at gourang.chauhan@stonybrook.edu
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-b08404226/)
+
 
 
